@@ -7,9 +7,9 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <!-- Navbar Brand -->
-            <a href="index.html" class="navbar-brand">
-                <img class="navbar-brand-icon mr-0 mr-md-8pt" src="assets/images/logo/white-100@2x.png" width="30" alt="Tutorio">
-                <span class="d-none d-md-block">Eduverse</span>
+            <a href="/" class="navbar-brand">
+                <img class="navbar-brand-icon mr-0 mr-md-8pt" src="{{ asset('assets/images/logo/white-100@2x.png') }}" width="30" alt="Eduversity">
+                <span class="d-none d-md-block">Eduversity</span>
             </a>
             <button class="btn btn-black mr-16pt" data-toggle="modal" data-target="#courses">Courses <i class="material-icons">arrow_drop_down</i></button>
 
@@ -26,7 +26,7 @@
                     </a>
                 </li>
                 <li class="d-none d-sm-flex nav-item">
-                    <a href="pricing.html" class="btn btn-accent">Get started</a>
+                    <a href="/pages/pricing" class="btn btn-accent">Get started</a>
                 </li>
             </ul>
             <!-- // END Main Navigation -->

@@ -7,8 +7,8 @@
 
                 <!-- Brand -->
                 <a href="index.html" class="sidebar-brand">
-                    <img class="sidebar-brand-icon" src="assets/images/logo/white-100.svg" width="30" alt="Tutorio">
-                    <span>Eduverse</span>
+                    <img class="sidebar-brand-icon" src="assets/images/logo/white-100.svg" width="30" alt="Eduversity">
+                    <span>Eduversity</span>
                 </a>
                 <!-- // END Brand -->
 

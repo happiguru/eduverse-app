@@ -1120,9 +1120,9 @@
                     </div>
                     <div class="col-md-4 text-md-right">
                         <p class="text-70 brand justify-content-md-end">
-                            <img class="brand-icon" src="assets/images/logo/black-70@2x.png" width="30" alt="Tutorio"> Tutorio
+                            <img class="brand-icon" src="assets/images/logo/black-70@2x.png" width="30" alt="Eduversity"> Eduversity
                         </p>
-                        <p class="text-muted mb-0 mb-lg-16pt">Tutorio is an online learning platform that helps anyone achieve their personal and professional goals.</p>
+                        <p class="text-muted mb-0 mb-lg-16pt">Eduversity is an online learning platform that helps anyone achieve their personal and professional goals.</p>
                     </div>
                 </div>
             </div>
